@@ -1,2 +1,15 @@
-# crawler
-a web crawler
+# web crawler ( Python 2.7 )
+To install these libray use pip commmand or easy-install 
+ * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/)
+ * [lxml](http://lxml.de/)
+ * [pymongo](http://api.mongodb.org/python/current/)
+ * [PyQt](http://www.riverbankcomputing.co.uk/software/pyqt/intro)
+ * [PySide](https://pypi.python.org/pypi/PySide)
+ * [ghost](http://jeanphix.me/Ghost.py/)
+ * [Selenium WebDriver](http://www.seleniumhq.org/projects/webdriver/)
+ * [mechanize](http://wwwsearch.sourceforge.net/mechanize/)
+ * [PIL](http://www.pythonware.com/products/pil/) / [Pillow](https://python-pillow.github.io/)
+ * [pytesseract](https://github.com/madmaze/pytesseract) 
+ * [scrapy](http://scrapy.org/)
+ * [portia](https://github.com/scrapinghub/portia)
+ * [scrapely](https://github.com/scrapy/scrapely)
